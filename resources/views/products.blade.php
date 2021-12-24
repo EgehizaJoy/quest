@@ -48,7 +48,7 @@
 			
 				<div class="col-md-3" style="margin-top:80px">
 					<div class="card" style="width:243px;height:217px;border-radius:18px;">
-					<a href="det/{{$product['id']}}">	<div class="text-center"><img src="{{ asset('storage/images/' . $product->image) }}" class="card-img-top" alt="..."></div></a>
+					<a href="det/{{$product['id']}}">	<div class="text-center"><img src="{{ asset('storage/images/'.$product->image) }}" class="card-img-top" alt="..."></div></a>
 						<div class="card-body">
 						<h5 class="card-title text-center">{{$product->product_Name}}</h5>
 						<p class="card-text text-center text-secondary text-opacity-50 fs-6">{{$product->detail}}</p>

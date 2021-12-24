@@ -383,7 +383,7 @@ Checkout<p>
 <tbody>
   
 <tr>
-<td scope="col"><img src="{{ asset('storage/images/' . $item->image) }}"
+<td scope="col"><img src="{{ asset('storage/public/' . $item->image) }}"
  alt="{{$item->product_Name}}" class="img-fluid rounded"  width="50"  height="93"></td>
 
 <td scope="col">
