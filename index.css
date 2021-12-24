@@ -1,0 +1,663 @@
+body{
+  margin:0;
+  font-family:Mulish;
+}
+/*Product Catalogue*/
+.small:a{text-decoration:none}
+.col-md-2{
+	padding:10px;
+	margin-left: 60px;
+	transform:translateX(500px);
+	margin-top:-50px;
+	width:104px;
+	height:41px;
+	text-align:center;
+	background-color: rgba(255, 255, 255, 1);
+	filter: drop-shadow(0px 0px 2px rgba(157, 157, 157, 0.15000000596046448));
+	border-radius: 38px;
+}
+
+.col-md-3{
+	margin-top:30px;
+	padding-bottom:150px;
+}
+.col-md-6{margin-top:100px;}
+.col-sm-3{margin-top:100px;}
+.col-md-12{margin-top:100px;}
+.card-img-top{
+	width:115px;
+	height:189px;
+	left:186px;
+	top:1916px;
+	transform:translateY(-80px);
+}
+
+.card-title{
+	transform:translateY(-90px);
+}
+
+.card-text{
+	transform:translateY(-100px);
+}
+
+.text-left{
+	transform:translateY(-100px);
+}
+/*Product Catalogue*/
+
+/*Why our water is the best*/
+.page_five{text-align:center;}
+.heading{
+	height:45px;
+	left:485px;
+	font-family:Mulish;
+	font-style:normal;
+	font-weight:800;
+	font-size:36px;
+	line-height:45px;
+	color:#323232;
+	padding:100px;
+}
+
+.items{transform:translateX(-13%);}
+
+.ellipse4{
+	  position: relative;
+width: 845px;
+height: 845px;
+left: 25%;
+right:259px;
+top: 20%px;
+margin-bottom:5%;
+border-radius: 55%;
+display: inline-block;
+background: #FFFFFF;
+border: 1px solid #E6F4FF;
+box-sizing: border-box;
+}
+
+.ellipse3{
+position: relative;
+width: 663px;
+height: 663px;
+left: 91px;
+right: 91px;
+top: 91px;
+border-radius: 55%;
+background: #FFFFFF;
+border: 1px solid #DDF0FF;
+box-sizing: border-box;
+}
+
+.ellipse2{
+position: absolute;
+width: 495px;
+height: 495px;
+left: 84px;
+top: 84px;
+border-radius: 55%;
+background: #FFFFFF;
+border: 1px solid #D0EAFF;
+box-sizing: border-box;
+}
+
+.ellipse1{
+position: absolute;
+width: 333px;
+height: 333px;
+left: 81px;
+top: 81px;
+border-radius: 55%;
+background: #FFFFFF;
+border: 1px solid #B9E0FF;
+box-sizing: border-box;
+}
+
+#bigcontainer{
+	width:360px;
+	height:636px;
+	left:548px;
+	top:3688px;
+	transform:translateY(-200px);
+}
+
+
+/*Why our water is the best*/
+
+/***Frequently Asked Questions Start***/
+#howitworks{
+	font-weight: 800;
+}
+
+/*Delivery Start*/
+.deliver{
+	position: relative;
+    z-index: 70;
+    pointer-events: none;
+    width: 451px;
+    min-width: 448px;
+    margin-top: 57px;
+    min-height: 108px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    color: rgba(50, 50, 50, 1);
+  font-style:normal;
+  font-family:Mulish;
+  font-weight:bold;
+  font-size:36px;
+  line-height:187.5%;
+}
+
+.deliver-paragraph{
+position: relative;
+z-index: 72;
+margin-top:30px;
+pointer-events: none;
+width: 599px;
+min-width: 599px;
+min-height: 112px;
+text-align: left;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+color: rgba(50, 50, 50, 1);
+font-style: normal;
+font-family: Mulish;
+font-weight: 600;
+font-size: 14px;
+line-height: 250%;}
+
+
+.btn-1{
+position:relative;
+  z-index:26;
+  width:183px;
+  min-width:183px;
+  height:61px;
+  margin-top:66px;
+  margin-bottom:0px;
+  min-height:61px;
+  background-color: rgba(255, 255, 255, 1);
+  border: 1px solid rgba(20, 126, 209, 1);
+  border-radius:10px;
+}
+
+.btn-2{
+position: relative;
+z-index: 27;
+margin-left:80px;
+width: 183px;
+min-width: 183px;
+height: 61px;
+min-height: 61px;
+background-color: rgba(20, 126, 209, 1);
+border-radius: 10px;
+}
+
+.blob{
+position: absolute;
+left:46.34%;
+right:-53.06%;
+top:237%;
+bottom:99.9%;
+transform:rotate(-143.5deg);
+z-index:-1;
+}
+
+
+/*Delivery End*/
+	
+	
+/*Get free delivery*/
+.get{
+	position:absolute;
+	width:662px;
+	height:45px;
+	left:200px;
+	top:3800px;
+	font-family:Mulish;
+	font-style:normal;
+	font-weight:800;
+	font-size:36px;
+	line-height:45.18px;
+	color:#fff;
+	text-shadow:0px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.offer{
+	position:absolute;
+	width:229px;
+	height:23px;
+	left:410px;
+	top:3850px;
+	color:#fff;
+	text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+#img-rectangle{
+	
+	width:1196px;
+	height:229px;
+	left:130px;
+	top:4565px;
+	z-index:-1;
+	background:#C4C4C4;
+	border-radius:16px;
+}
+
+#woman{
+	width:342px;
+	height:342px;
+	right:919px;
+	top:4402px;
+	transform:translate(730px,-442px);
+}
+
+#s6{
+	padding:50px;
+}
+/*Get free delivery*/
+
+/*Testimonials*/
+.ht1{
+	position:absolute;
+	width:381px;
+	height:54px;
+	left:121px;
+	top:4150px;
+	font-family:Mulish;
+	font-weight:800;
+	font-size:36px;
+	color:#fff;
+	line-height:150%;
+}
+
+
+.pt1{
+	position:absolute;
+	width:516px;
+	height:112px;
+	left:121px;
+	top:4250px;
+	font-family:Mulish;
+	font-style:normal;
+	font-weight:600;
+	font-size:14px;
+	color:#fff;
+	line-height:200%;
+}
+
+.col-2{transform:translateY(-100px);color:#fff;}
+
+#testimonials{
+	position:absolute;
+	width:946px;
+	height:458px;
+	left:0px;
+	z-index:-1;
+	transform:translateY(-650px);
+}
+
+#card33{
+	position:absolute;
+	width:285px;
+	height:175px;
+	left:750px;
+	top:4150px;
+}
+
+.mwende{
+	transform:translate(10px,-50px);
+}
+.mwende_p{
+	font-family:Mulish;
+	font-style:normal;
+	font-weight:normal;
+	font-size:10px;
+line-height:150%;
+transform:translate(10px,-50px);}
+
+#card34{
+	position:absolute;
+	width:285px;
+	height:175px;
+	right:-300px;
+}
+
+.victor{
+	transform:translate(10px,-50px);
+}
+
+.victor_p{
+	font-family:Mulish;
+	font-style:normal;
+	font-weight:normal;
+	font-size:10px;
+line-height:150%;
+transform:translate(10px,-50px);}
+
+/*Testimonials*/
+
+/***Frequently Asked Questions Start***/
+
+	.break-faq-text{
+	
+	position:absolute;
+  pointer-events:none;
+  width:311px;
+  height:108px;
+  text-align:left;
+  left:100px;
+	top:4700px;
+  color:#323232;
+  font-style:normal;
+  font-family:Mulish;
+  font-weight:800;
+  font-size:36px;
+  line-height:187.5%;
+
+	}
+	
+.faq-paragraph{
+  position:absolute;
+  width:328px;
+  left:580px;
+  top:4750px;
+  height:72px;
+  text-align:left;
+  color:#323232;
+  font-style:normal;
+  font-family:Mulish;
+  font-weight:600;
+  font-size:18px;
+  line-height:250%;
+}
+
+.btn{
+position:absolute;
+width:183px;
+height:61px;
+left:1135px;
+top:4770px;
+color:#fff;
+background:#147ed1;
+border-radius:10px
+}
+
+/***Frequently Asked Questions End***/
+
+/***Accordion Start***/
+.col-md-10{transform:translateY(250px);}
+.accordion{
+	width:1196px;
+}
+
+.accordion .contentBx{
+	position:relative;
+}
+
+#label{transform:translateY(10%);}
+.accordion .contentBx .label{
+	position:relative;
+	padding:90px;
+	right:50px;
+	background:#f4f4f4;
+	color:rgba(50, 50, 50, 1);
+	cursor:pointer;
+	font-weight:800;
+	font-size:36px;
+	height:234px;
+	border: 1px solid black;
+}
+
+.accordion .contentBx .label::before{
+	content:'+';
+	position:absolute;
+	top:50%;
+	right:20px;
+	transform:translateY(-50%);
+	font-size:1.5em;
+}
+
+.accordion .contentBx .content{
+	position:relative;
+	background:#4365aa;
+	height:0;
+	overflow:hidden;
+	transition:0.5s;
+	overflow-y:auto;
+	border-radius:24px;
+	right:50px;
+}
+
+.accordion .contentBx.active .content{
+	height:150px;
+	padding:10px;
+}
+
+.sentence{
+	position: relative;
+z-index: 411;
+pointer-events: none;
+
+width: 661px;
+min-width: 653px;
+bottom:100%;
+min-height: 36px;
+transform:translateX(30%);
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+color: rgba(0, 0, 0, 1);
+font-style: normal;
+font-family: Mulish;
+font-weight: 800;
+font-size: 24px;
+line-height: 187.5%;
+}
+
+.details{
+	color:rgba(255,255,255,1);
+	width:862px;
+	height:78px;
+	font-family:Mulish;
+	text-align:center;
+	font-size:14px;
+	letter-spacing:0;
+}
+/***Accordion End***/
+
+/*Newsletter*/
+.content-2{
+	position:absolute;
+	width:477px;
+	height:90px;
+	left:482px;
+	top:6150px;
+	font-family:Mulish;
+	font-style:normal;
+	font-weight:800;
+	font-size:36px;
+	line-height:45px;
+	text-align:center;	
+	color:#fff;
+}
+#email{
+	position:absolute;
+	width:602px;
+	height:88px;
+	left:419px;
+	top:6250px;
+	background:#fff;
+	border-radius:14px;
+}
+
+#letterbtn{
+	width:154px;
+	height:55px;
+	left:820px;
+	top:6270px;
+	background:#147ED1;
+	border-radius:8px;
+}
+
+#newsletter-bg{
+	position:absolute;
+	width:954px;
+	height:284px;
+	left:243px;
+	top:6100px;
+    background: rgba(0, 0, 0, 0.65);
+	border-radius:24px;
+	z-index:-1;
+}
+
+
+/*Newsletter*/
+
+/*Bottle Start*/
+#bottle{
+	position:absolute;
+	width:221.71px;
+	height:246.9px;
+	left:15.97px;
+	top:6250px;
+}
+/*Bottle End*/
+
+/***Footer Start***/
+
+.section-1 {
+	position:absolute;
+  background-color: #4365aa;
+  padding:50px;
+  margin-right:50px;
+	top:6470px;
+  width:100%;
+}
+
+.title{
+	  font-family:Mulish;
+	  letter-spacing:0px;
+	  min-height:45px;
+	  min-width:253px;
+	  font-weight:700;
+	  color:#fff;
+	  
+  }
+  
+.text-1{
+	font-size:small;
+	letter-spacing:0;
+	line-height:28px;
+	min-height:56px;
+	width:100%;
+	color:#F5F5F5;
+}
+
+.vector{
+	margin-left:10px;
+	transform:translateX(-15px);
+}
+  
+  
+.title-2{
+		
+	  font-family:Mulish;
+	  color:#fff;
+	  margin-top:20px;
+	  margin-left:50px;
+	  letter-spacing:0px;
+	  min-height:45px;
+	  min-width:253px;
+	  font-weight:700;
+  }  
+  
+.info{
+	font-family:Mulish;
+	margin-left:50px;
+	transform:translateY(-15px);
+	color:#F5F5F5;
+	
+}
+  
+.group-24{
+	border-radius:19.06px;
+	
+	height:38px;
+	
+}
+
+/*Product-Catalogue Start*/
+.Product-Catalogue{
+	   position:relative;
+  z-index:74;
+ margin-top:50px;
+  margin-left:0px;
+  width:329px;
+  min-width:328px;
+ 
+  min-height:45px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(50, 50, 50, 1);
+  font-style:normal;
+  font-family:Mulish;
+  font-weight:800;
+  font-size:36px;
+  line-height:45px;
+  }
+/*Product-Catalogue End*/
+
+/*All Start*/
+	.All{
+	
+ /*position:relative;
+ z-index:195;
+ margin-right:310px;
+ display:flex;
+ flex-direction:column;
+ justify-content:flex-start;
+ width:97px;
+ min-width: 97px;
+ height:41px;
+ min-height: 41px;
+ background-color: rgba(20, 126, 209, 1);
+ margin-top: -50px;
+margin-bottom: 3px;
+ filter: drop-shadow(0px 0px 2px rgba(157, 157, 157, 0.15000000596046448));
+ border-radius: 38px;
+ font-style:normal;
+  font-family:Mulish;
+  font-weight:700;
+  font-size:16px;
+  line-height:20px;*/
+	}
+/*All End*/
+
+/*Refillable Start*/
+.Refillable{
+
+}
+/*Refillable Start*/
+
+@media screen and (max-width: 799px) and (min-width: 320px){
+  
+  .section-1{
+    height: 100%;
+	width:100%;
+   }
+  .col-sm-3{
+	height:307px;
+    padding:10px 20px;
+  }
+  
+  
+}
+
+/***Footer End***/
+
